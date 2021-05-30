@@ -1,0 +1,1 @@
+alert("I came from a package!");
